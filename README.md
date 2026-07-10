@@ -1,5 +1,3 @@
-# Francesco Oddo
-
 ## Featured Projects
 
 ### [Codeview](https://github.com/OxFrancesco/codeview)
