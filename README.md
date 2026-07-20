@@ -1,5 +1,9 @@
 ## Featured Projects
 
+### [ArmY](https://github.com/OxFrancesco/ArmY)
+
+An Effect-powered CLI that orchestrates coding sub-agents in Herdr with concurrent execution, deterministic verification, and model escalation.
+
 ### [Codeview](https://github.com/OxFrancesco/codeview)
 
 A headless-first CLI built with Bun and OpenTUI that keeps reference codebases ready for coding agents to study and reuse.
